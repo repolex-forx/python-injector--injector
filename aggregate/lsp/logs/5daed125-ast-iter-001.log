@@ -1,0 +1,7 @@
+[2026-10-17T22:50:45Z] === AST ITERATION 1 START | repo=python-injector/injector sha=5daed125 ===
+[2026-10-17T22:50:45Z] [iter=1] PHASE START: ast repo=python-injector/injector sha=5daed125
+[2026-10-17T22:50:45Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T22:51:02Z] [iter=1] AST chunks built count=1 triples=141834
+[2026-10-17T22:51:02Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5daed12510fafc0bf73b6ef18d2884f78cd5e210/.complete
+[2026-10-17T22:51:02Z] [iter=1] PHASE END: ast elapsed_s=17 elapsed_min=0.3
+[2026-10-17T22:51:02Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

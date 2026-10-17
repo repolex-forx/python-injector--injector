@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-injector/injector/commit/5daed12510fafc0bf73b6ef18d2884f78cd5e210",
       "git:hexsha": "5daed12510fafc0bf73b6ef18d2884f78cd5e210",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-injector/injector/commit/bfef950c4f0ea2375c0e8ba9bddcf76c9ed93bbc",
